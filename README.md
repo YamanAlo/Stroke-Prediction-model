@@ -7,7 +7,7 @@ The Stroke Prediction Model is a machine learning-based system that predicts whe
 
 you have to install all the libraries below from your terminal to be able to run the code successfully:
 
-$ pip install --file requirements.txt
+$ pip install -r requirements.txt
 
 ## Features
 
