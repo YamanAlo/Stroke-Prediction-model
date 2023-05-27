@@ -7,17 +7,7 @@ The Stroke Prediction Model is a machine learning-based system that predicts whe
 
 you have to install all the libraries below from your terminal to be able to run the code successfully:
 
-- pip install pandas
-- pip install numpy
-- pip install matplotlib
-- pip install plotly
-- pip install sklearn
-- pip install feature_engine
-- pip install xgboost
-- pip install lightgbm
-- pip install catboost
-- pip install collection
-- pip install gradio
+$ pip install --file requirements.txt
 
 ## Features
 
